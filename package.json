@@ -1,0 +1,1 @@
+{"description":"How many browser tabs do I have open? 404 — a tab hoarder's honest count — make.fun entry.","engines":{"node":">=22.18"},"license":"MIT","name":"u-danu-how-many-tabs-do-you-have-open-d86e783d-bot","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
